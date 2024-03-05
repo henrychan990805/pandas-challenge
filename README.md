@@ -39,5 +39,5 @@
 ![alt text](https://github.com/henrychan990805/pandas-challenge/blob/ed5c34d73ca2dadeb5d7ac12664d608aeebce22d/Scores%20by%20Type.png)
 
 ## Conclusion
-According to the dataframe of scores by size, large schools tend to have lower overall passing rates.
-According to the dataframes of top performance schools, bottom performance schools, and performance by type, charter schools tend to have higher preformance than district schools.
+- According to the dataframe of scores by size, large schools tend to have lower overall passing rates.
+- According to the dataframes of top performance schools, bottom performance schools, and performance by type, charter schools tend to have higher preformance than district schools.
