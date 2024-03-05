@@ -1,7 +1,7 @@
 ### Pandas-Challenge: PyCitySchool
 ## Summary
 # 1. District Summary
-![alt text] (https://github.com/henrychan990805/pandas-challenge/blob/9af7963623cc559ca002e4827563116d94758a1f/District%20Summary.png)
+![alt text] (District Summary.png)
 # 2. School Summary
 ![alt text] ()
 # 3. Highest Performing Schools by Percentage of Overall Passing
