@@ -2,29 +2,38 @@
 ## Summary
 1. District Summary
 
-![alt text].(District Summary.png)
+![alt text].(https://github.com/henrychan990805/pandas-challenge/blob/effc8533a2583c21792b8058953318bbf6fda75b/District%20Summary.png)
 
 3. School Summary
+
 ![alt text].()
 
-4. Highest Performing Schools by Percentage of Overall Passing
+5. Highest Performing Schools by Percentage of Overall Passing
+
 ![alt text].()
 
-5. Loest Preforming Schools by Percentage of Overall Passing
+7. Loest Preforming Schools by Percentage of Overall Passing
+
 ![alt text].()
 
-6. Math Scores by Grade
+8. Math Scores by Grade
+
 ![alt text].()
 
-7. Reading Scores by Grade
-![alt text].()
-8. Scores by School Spending
+9. Reading Scores by Grade
+
 ![alt text].()
 
-10. Scores by School Size
+10. Scores by School Spending
+
+![alt text].()
+
+11. Scores by School Size
+
 ![alt text].()
 
 12. Scores by School Type
+
 ![alt text].()
 
 ## Conclusion
